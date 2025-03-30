@@ -2,6 +2,8 @@
 
 SIMRS (Sistem Informasi Manajemen Rumah Sakit) is a comprehensive hospital management information system designed to streamline hospital operations, manage patient data, and facilitate healthcare service delivery. Inspired by MLite.id, this system provides an integrated platform for healthcare providers to efficiently manage various aspects of hospital administration.
 
+![Alt text](1.png)
+
 ## Features
 
 ### Current Features
